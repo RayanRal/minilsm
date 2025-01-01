@@ -1,1 +1,1 @@
-# minilsm
+# minimaLiSM
